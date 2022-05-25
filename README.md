@@ -1,4 +1,5 @@
 # MCA Academic project, Year: Nov 2016 - Apr 2017.
+## Tech stack - Designed in Adobe flash professional CS6 and developed in Unity (c#)
 FrontPage
 ![FrontPage](https://user-images.githubusercontent.com/17167943/170336453-05fe7315-066b-42c9-b095-f157cd1706c2.png)
 Background
