@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 7b81815eefc11534ca1020a0b26c5600
+timeCreated: 1490003548
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ox Through_2_0
+    21300002: Ox Through_2_1
+    21300004: Ox Through_2_2
+    21300006: Ox Through_2_3
+    21300008: Ox Through_2_4
+    21300010: Ox Through_2_5
+    21300012: Ox Through_2_6
+    21300014: Ox Through_2_7
+    21300016: Ox Through_2_8
+    21300018: Ox Through_2_9
+    21300020: Ox Through_2_10
+    21300022: Ox Through_2_11
+    21300024: Ox Through_2_12
+    21300026: Ox Through_2_13
+    21300028: Ox Through_2_14
+    21300030: Ox Through_2_15
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ox Through_2_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 7382
+        width: 1058
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ox Through_2_1
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 7382
+        width: 1060
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ox Through_2_2
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 7358
+        width: 984
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ox Through_2_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6527
+        width: 978
+        height: 743
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ox Through_2_4
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 6554
+        width: 1060
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ox Through_2_5
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 6554
+        width: 1060
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ox Through_2_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 5738
+        width: 1076
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ox Through_2_7
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 5738
+        width: 1072
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ox Through_2_8
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 5759
+        width: 1088
+        height: 719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ox Through_2_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 4934
+        width: 1084
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ox Through_2_10
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 4886
+        width: 980
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ox Through_2_11
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 4886
+        width: 980
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ox Through_2_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 4062
+        width: 902
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ox Through_2_13
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 4062
+        width: 903
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ox Through_2_14
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 4079
+        width: 930
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ox Through_2_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 3250
+        width: 931
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
